@@ -1,0 +1,11 @@
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\bin\Debug\SpaceShipInvaders.exe.config
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\bin\Debug\SpaceShipInvaders.exe
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\bin\Debug\SpaceShipInvaders.pdb
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\obj\Debug\SwiftSalvation.csprojAssemblyReference.cache
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\obj\Debug\SpaceShipInvaders.frmTicTacToe.resources
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\obj\Debug\SpaceShipInvaders.swftSalv.resources
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\obj\Debug\SpaceShipInvaders.Properties.Resources.resources
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\obj\Debug\SwiftSalvation.csproj.GenerateResource.cache
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\obj\Debug\SwiftSalvation.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\obj\Debug\SpaceShipInvaders.exe
+C:\Users\marwa\Documents\Visual Studio 2017\ICS3U\CTP_AliM\SpaceShipInvaders\obj\Debug\SpaceShipInvaders.pdb
